@@ -1,0 +1,47 @@
+1. Makarov - 6th Rank Wizard Saints
+   HP	    : 600
+   EP	    : 1200
+   Speed    : 10
+   Strength : 16
+   Defense  : 7
+   Magic    : - Light Magic Attack
+              - Giant Smash
+	      - Fairy Law
+	      - 3-Pillars of God
+
+2. Natsu - Fire Dragon Slayer
+   HP	    : 700
+   EP	    : 540
+   Speed    : 9
+   Strength : 10
+   Defense  : 12
+   Magic    : - Fire Dragon Fist
+              - Fire Dragon Claw
+	      - Fire Dragon Roar
+	      - Dragon-Force: Exploding Flame Blade
+
+3. Jellal - 8th Rank Wizard Saints
+   HP	    : 680
+   EP	    : 935
+   Speed    : 11
+   Strength : 8
+   Defense  : 12
+   Magic    : - Black Hole: Altairis
+              - Meteor
+	      - Grand Chariot
+	      - True Heavenly Body Magic: Sema
+
+4. God Serena - 1th Rank Wizard Saints
+   HP	    : 970
+   EP	    : 1880
+   Speed    : 18
+   Strength : 18
+   Defense  : 15
+   Magic    : - Purgatory Dragon Magic
+              - Cavern Dragon Magic
+	      - Sea King Dragon Magic
+	      - Lighting Dragon Magic
+
+
+
+  
